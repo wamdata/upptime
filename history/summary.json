@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/febiac.be.ico",
     "slug": "febiac-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 758,
-    "timeDay": 941,
-    "timeWeek": 811,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 756,
+    "timeDay": 810,
+    "timeWeek": 813,
     "timeMonth": 750,
-    "timeYear": 758,
-    "dailyMinutesDown": {
-      "2024-11-26": 8
-    }
+    "timeYear": 756,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Febiac Extranet Website",
@@ -26,17 +24,16 @@
     "slug": "febiac-extranet-website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 879,
-    "timeDay": 5406,
-    "timeWeek": 2270,
-    "timeMonth": 1112,
-    "timeYear": 879,
+    "time": 876,
+    "timeDay": 5323,
+    "timeWeek": 2265,
+    "timeMonth": 1113,
+    "timeYear": 876,
     "dailyMinutesDown": {
-      "2024-11-26": 7,
       "2024-09-16": 20
     }
   }
