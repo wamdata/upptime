@@ -4,10 +4,10 @@
     "url": "https://febiac.be",
     "icon": "https://icons.duckduckgo.com/ip3/febiac.be.ico",
     "slug": "febiac-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 768,
@@ -15,14 +15,16 @@
     "timeWeek": 708,
     "timeMonth": 784,
     "timeYear": 768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-09": 2
+    }
   },
   {
     "name": "Febiac Extranet Website",
     "url": "https://extranet.febiac.be",
     "icon": "https://icons.duckduckgo.com/ip3/extranet.febiac.be.ico",
     "slug": "febiac-extranet-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 744,
     "timeYear": 831,
     "dailyMinutesDown": {
+      "2025-01-09": 0,
       "2024-09-16": 20
     }
   }
