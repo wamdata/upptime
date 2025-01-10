@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 822,
-    "timeDay": 4031,
-    "timeWeek": 1547,
-    "timeMonth": 998,
-    "timeYear": 822,
+    "time": 821,
+    "timeDay": 4073,
+    "timeWeek": 1557,
+    "timeMonth": 990,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2025-01-09": 16
     }
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/extranet.febiac.be.ico",
     "slug": "febiac-extranet-website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 829,
-    "timeDay": 616,
-    "timeWeek": 712,
-    "timeMonth": 739,
-    "timeYear": 829,
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 828,
+    "timeDay": 637,
+    "timeWeek": 724,
+    "timeMonth": 738,
+    "timeYear": 828,
     "dailyMinutesDown": {
-      "2025-01-09": 15,
       "2024-09-16": 20
     }
   }
