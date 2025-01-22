@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 813,
-    "timeDay": 675,
-    "timeWeek": 715,
-    "timeMonth": 951,
-    "timeYear": 813,
+    "time": 811,
+    "timeDay": 568,
+    "timeWeek": 699,
+    "timeMonth": 949,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2025-01-09": 16
     }
@@ -26,17 +26,16 @@
     "slug": "febiac-extranet-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 814,
-    "timeDay": 741,
-    "timeWeek": 678,
-    "timeMonth": 709,
-    "timeYear": 814,
+    "time": 812,
+    "timeDay": 738,
+    "timeWeek": 686,
+    "timeMonth": 708,
+    "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-01-21": 8,
       "2024-09-16": 20
     }
   }
