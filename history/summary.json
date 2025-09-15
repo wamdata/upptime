@@ -4,7 +4,7 @@
     "url": "https://febiac.be",
     "icon": "https://icons.duckduckgo.com/ip3/febiac.be.ico",
     "slug": "febiac-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 3166,
     "timeYear": 1030,
     "dailyMinutesDown": {
+      "2025-09-15": 0,
       "2025-09-07": 16,
       "2025-09-02": 16,
       "2025-08-30": 44,
