@@ -1,7 +1,7 @@
 url: https://extranet.febiac.be
-status: up
-code: 200
-responseTime: 1559
-lastUpdated: 2025-11-18T14:42:32.408Z
+status: down
+code: 500
+responseTime: 111
+lastUpdated: 2025-11-18T14:53:26.452Z
 startTime: 2024-09-10T11:18:21.575Z
 generator: Upptime <https://github.com/upptime/upptime>
